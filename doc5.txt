@@ -1,3 +1,3 @@
-modificacio local nuevo
+modificacio local
 modificado doc 5 remoto
-nueva modificación
+nueva modificación nuevo
